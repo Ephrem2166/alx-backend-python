@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 ''' Description: Augment the following code with the correct
                  duck-typed annotations
     Arguments: lst: Sequence[Any]
